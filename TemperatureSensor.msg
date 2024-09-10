@@ -1,0 +1,2 @@
+float32 temperature
+string node_status

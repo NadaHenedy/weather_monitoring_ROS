@@ -1,0 +1,6 @@
+float32 temperature
+float32 humidity
+float32 pressure
+string node_status_temperature
+string node_status_humidity
+string node_status_pressure
